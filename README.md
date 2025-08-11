@@ -1,5 +1,5 @@
-📊 #Blinkit-Sales-Product-Performance-Dashboard
-🔹 ##Project Overview
+# 📊 Blinkit-Sales-Product-Performance-Dashboard
+## 🔹Project Overview
 This Power BI dashboard analyzes Blinkit’s sales, product performance, and revenue trends using historical order data.
 It helps stakeholders quickly identify:
 
