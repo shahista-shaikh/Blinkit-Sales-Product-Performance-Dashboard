@@ -3,12 +3,12 @@
 This Power BI dashboard analyzes Blinkit’s sales, product performance, and revenue trends using historical order data.
 It helps stakeholders quickly identify:
 
--High-performing product categories
+--High-performing product categories
 
--Monthly sales and order trends
+--Monthly sales and order trends
 
--Best-selling products
+--Best-selling products
 
--Most profitable regions
+--Most profitable regions
 
--Revenue vs. gross margin relationships
+--Revenue vs. gross margin relationships
