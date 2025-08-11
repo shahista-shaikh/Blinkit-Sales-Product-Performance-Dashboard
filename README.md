@@ -12,3 +12,14 @@ It helps stakeholders quickly identify:
 - Most profitable regions
 
 - Revenue vs. gross margin relationships
+# 📂 Dataset
+The dataset contains Blinkit’s order and sales data, including:
+
+- Order details – date, quantity, product, revenue, margin
+
+- Product categories – e.g., Pharmacy, Pet Care, Household Care
+
+- Geographic data – areas where orders were delivered
+
+- 
+
