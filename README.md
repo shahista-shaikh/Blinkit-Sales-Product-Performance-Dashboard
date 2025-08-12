@@ -28,7 +28,7 @@ The dataset contains Blinkit’s order and sales data, including:
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_products.csv">Blinkit Products Data</a>
 
   ## 📈 Dashboard Features
-   ### 1. KPI Cards
+   #### 1. KPI Cards
   - Total Revenue – Overall sales value generated
 
   - Total Orders – Total number of completed orders
