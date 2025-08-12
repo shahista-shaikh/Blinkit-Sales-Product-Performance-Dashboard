@@ -12,7 +12,7 @@ It helps stakeholders quickly identify:
 - Most profitable regions
 
 - Revenue vs. gross margin relationships
-# 📂 Dataset
+## 📂 Dataset
 The dataset contains Blinkit’s order and sales data, including:
 
 - Order details – date, quantity, product, revenue, margin
@@ -27,7 +27,7 @@ The dataset contains Blinkit’s order and sales data, including:
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_orders.csv">Blinkit Orders Data</a>
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_products.csv">Blinkit Products Data</a>
 
-  # 📈 Dashboard Features
+  ## 📈 Dashboard Features
   ## 1. KPI Cards
   - Total Revenue – Overall sales value generated
 
@@ -67,7 +67,7 @@ The dataset contains Blinkit’s order and sales data, including:
 
   - Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-11%20172904.png">View Dashboard</a>
 
-  # 🎯 Insights Gained
+  ## 🎯 Insights Gained
   - Pet Care & Pharmacy categories drive the majority of revenue.
 
   - Orders and revenue peak during May–October, suggesting seasonal demand.
@@ -76,7 +76,7 @@ The dataset contains Blinkit’s order and sales data, including:
 
   - Cities like Orai and Nandyal contribute significantly to revenue.
 
-  # 🛠 Tools & Technologies Used
+  ## 🛠 Tools & Technologies Used
   - Power BI – Data visualization and dashboard creation
 
   - DAX – For KPI calculations and custom measures
