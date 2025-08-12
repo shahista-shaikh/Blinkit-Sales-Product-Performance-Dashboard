@@ -69,7 +69,7 @@ The dataset contains Blinkit’s order and sales data, including:
   ### 7. Product Category Summary Table
   - Tabular view of total quantity, revenue, and margin per category
 
-    #### Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-11%20172904.png">View Dashboard</a>
+    #### Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-12%20144852.png">View Dashboard</a>
 
 
   ## 🎯 Insights Gained
@@ -99,4 +99,4 @@ The dataset contains Blinkit’s order and sales data, including:
   - Hover over charts to see tooltips for deeper insights.
 
 ## Dashboard
-<img width="1283" height="727" alt="Screenshot 2025-08-11 172904" src="https://github.com/user-attachments/assets/98f2d56a-9035-48cd-985f-81aa1cb05e38" />
+<img width="1288" height="730" alt="Screenshot 2025-08-12 144852" src="https://github.com/user-attachments/assets/1e126e48-a689-4252-aba3-cfd612ca101b" />
