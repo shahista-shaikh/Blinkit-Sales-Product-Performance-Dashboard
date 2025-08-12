@@ -65,7 +65,7 @@ The dataset contains Blinkit’s order and sales data, including:
   ### 7. Product Category Summary Table
   - Tabular view of total quantity, revenue, and margin per category
 
-  - Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-11%20172904.png">View Dashboard</a>
+    #### Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-11%20172904.png">View Dashboard</a>
 
   ## 🎯 Insights Gained
   - Pet Care & Pharmacy categories drive the majority of revenue.
