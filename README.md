@@ -39,7 +39,7 @@ The dataset contains Blinkit’s order and sales data, including:
 
   - Gross Margin – Profit after deducting cost of goods
 
-  ### 2. Revenue by Product Category
+  #### 2. Revenue by Product Category
   - Donut chart showing revenue share per product category
 
   - Helps identify top-performing segments like Pet Care & Pharmacy
