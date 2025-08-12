@@ -21,5 +21,9 @@ The dataset contains Blinkit’s order and sales data, including:
 
 - Geographic data – areas where orders were delivered
 
-- 
+  ## Dataset used
+  - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_customers.csv">Blinkit Customers Data</a>
+  - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_order_items.csv">Blinkit Order Items Data</a>
+  - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_orders.csv">Blinkit Orders Data</a>
+  - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_products.csv">Blinkit Products Data</a>
 
