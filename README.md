@@ -12,6 +12,8 @@ It helps stakeholders quickly identify:
 - Most profitable regions
 
 - Revenue vs. gross margin relationships
+
+  
 ## 📂 Dataset
 The dataset contains Blinkit’s order and sales data, including:
 
@@ -21,11 +23,13 @@ The dataset contains Blinkit’s order and sales data, including:
 
 - Geographic data – areas where orders were delivered
 
+
   ## Dataset used
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_customers.csv">Blinkit Customers Data</a>
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_order_items.csv">Blinkit Order Items Data</a>
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_orders.csv">Blinkit Orders Data</a>
   - <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/blinkit_products.csv">Blinkit Products Data</a>
+
 
   ## 📈 Dashboard Features
    ### 1. KPI Cards
@@ -67,6 +71,7 @@ The dataset contains Blinkit’s order and sales data, including:
 
     #### Dashboard Interaction <a href="https://github.com/shahista-shaikh/Blinkit-Sales-Product-Performance-Dashboard/blob/main/Screenshot%202025-08-11%20172904.png">View Dashboard</a>
 
+
   ## 🎯 Insights Gained
   - Pet Care & Pharmacy categories drive the majority of revenue.
 
@@ -75,6 +80,7 @@ The dataset contains Blinkit’s order and sales data, including:
   - Certain high-revenue products have relatively lower profit margins.
 
   - Cities like Orai and Nandyal contribute significantly to revenue.
+
 
   ## 🛠 Tools & Technologies Used
   - Power BI – Data visualization and dashboard creation
