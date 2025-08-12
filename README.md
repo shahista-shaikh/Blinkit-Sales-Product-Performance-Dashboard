@@ -91,3 +91,12 @@ The dataset contains Blinkit’s order and sales data, including:
 
   - Dataset – Blinkit sales transaction data (CSV format)
 
+## 📌 How to Use This Dashboard
+  - Open the .pbix file in Power BI Desktop.
+
+  - Use slicers (Year, Brand) to filter and analyze data.
+
+  - Hover over charts to see tooltips for deeper insights.
+
+## Dashboard
+<img width="1283" height="727" alt="Screenshot 2025-08-11 172904" src="https://github.com/user-attachments/assets/98f2d56a-9035-48cd-985f-81aa1cb05e38" />
